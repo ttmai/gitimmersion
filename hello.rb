@@ -1,4 +1,4 @@
-puts "Hello, World"
+puts "Hello, Ruby"
 
 puts "Welcome, #{ARGV.first}!"
 
