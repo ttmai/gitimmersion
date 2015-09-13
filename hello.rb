@@ -1,4 +1,4 @@
-puts "Hello, Ruby"
+name = ARGV.first || "World"
 
-puts "Welcome, #{ARGV.first}!"
+puts "Welcome, #{name}!"
 
